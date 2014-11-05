@@ -25,6 +25,13 @@
 .elgg-module .elgg-list {
 	margin-top: 0;
 }
+
+/* ***************************************
+	task list color
+*****************************************/
+.tasklist-graph div {
+    background: none repeat scroll 0 0 #0e7c1b;
+}
 /* ***************************************
 	TOPBAR MENU DROPDOWN
 *****************************************/
