@@ -90,7 +90,7 @@ html {
 .elgg-button-nav:hover {
 	color: #FFF;
 	text-decoration: none;
-	background-color: #60B8F7;
+	background-color: #0e7c1b;
 }
 .elgg-button-nav .icon-bar {
 	background-color: #F5F5F5;
@@ -227,10 +227,10 @@ html {
 		margin: 0;
 	}
 	.elgg-more > a {
-		border-bottom: 1px solid #294E6B;
+		border-bottom: 1px solid #f47e3c;
 	}
 	.elgg-menu-site > li {
-		border-top: 1px solid #294E6B;
+		border-top: 1px solid #f47e3c;
 		clear: both;
 		float: none;
 		margin: 0;
@@ -252,7 +252,7 @@ html {
 	}
 	.elgg-menu-site-more > li.elgg-state-selected > a,
 	.elgg-menu-site-more > li > a:hover {
-		background-color: #60B8F7;
+		background-color: #0e7c1b;
 		color: #FFF;
 	}
 }
