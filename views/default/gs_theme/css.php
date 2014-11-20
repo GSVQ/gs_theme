@@ -193,6 +193,10 @@ html {
 	.elgg-heading-site, .elgg-heading-site:hover {
 		font-size: 1.6em;
 	}
+	
+.elgg-heading-site > img {
+    max-width: 100%;
+}
 	.elgg-button-nav {
 		cursor: pointer;
 		display: block;

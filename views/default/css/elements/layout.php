@@ -41,6 +41,8 @@
 	border-top: 1px solid #DEDEDE;
 }
 
+
+
 /***** TOPBAR ******/
 .elgg-page-topbar {
 	background: #424242;
